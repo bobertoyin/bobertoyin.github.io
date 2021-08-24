@@ -1,0 +1,209 @@
+/*----- COLOR VARIABLES -----*/
+:root {
+  --current-mode: 0; /* 0 = light mode, 1 = dark mode */
+  --primary-text-color-current: var(--primary-text-color-light);
+  --secondary-text-color-current: var(--secondary-text-color-light);
+  --tertiary-text-color-current: var(--tertiary-text-color-light);
+  --background-color-current: var(--background-color-light);
+  --hover-brightness-current: var(--hover-brightness-light);
+  --hover-saturation-currrent: var(--hover-saturation-light);
+
+  --primary-text-color-dark: #FCF6EE;
+  --secondary-text-color-dark: #E9D8D9;
+  --tertiary-text-color-dark: #ACD7BC;
+  --background-color-dark: #242131;
+  --hover-brightness-dark: 0.5;
+  --hover-saturation-dark: 1.5;
+
+  --primary-text-color-light: #4E2D2E;
+  --secondary-text-color-light: #2C293D;
+  --tertiary-text-color-light: #428A5C;
+  --background-color-light: #FCF6EE;
+  --hover-brightness-light: 1.5;
+  --hover-saturation-light: 0.5;
+
+  --header-text-size: 4.5vw;
+  --segment-text-size: 2.5vw;
+  --segment-caption-text-size: 1.5vw;
+  --large-body-text-size: 1.75vw;
+  --normal-body-text-size: 1.25vw;
+}
+
+/*----- NAVIGATION AND LINKS -----*/
+nav {
+  height: calc(5vh + 3vw);
+  width: 95vw;
+  margin: auto;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border-bottom: 3px solid var(--secondary-text-color-current);
+}
+
+nav li {
+  list-style: none;
+  color: var(--secondary-text-color-current);
+  font-size: var(--large-body-text-size);
+  margin: 0 1vw;
+  transition: 125ms ease;
+}
+
+nav li:hover {
+  cursor: pointer;
+  color: var(--tertiary-text-color-current);
+  transition: 125ms ease;
+}
+
+/*----- HEADERS -----*/
+
+h1, h2, h3 {
+  font-weight: 700;
+  color: var(--secondary-text-color-current);
+}
+
+h2, h3 {
+  margin: 0.25em auto;
+}
+
+h1 {
+  font-size: var(--header-text-size);
+  margin: 0 auto 0.5em;
+  letter-spacing: 0.275em;
+}
+
+h2, .contact-link {
+  font-size: var(--segment-text-size);
+}
+
+h3 {
+  font-size: var(--segment-caption-text-size);
+  font-style: italic;
+}
+
+h4 {
+  font-weight: 500;
+  font-size: var(--large-body-text-size);
+  margin: 0.5em auto;
+}
+
+/*----- BODY AND SECTIONS -----*/
+
+html {
+  font-family: 'futura-pt', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  hyphens: none;
+  color: var(--primary-text-color-current);
+  background-color: var(--background-color-current);
+}
+
+.section {
+  margin: 1em auto;
+  height: calc(100vh - (5vh + 3vw + 2em + 3px));
+  width: 91.5vw;
+  transition: 300ms ease;
+}
+
+#about {
+  display: block;
+  opacity: 1;
+}
+
+#experience, #skills, #projects, #contact {
+  display: none;
+  opacity: 0;
+}
+
+.about-pic {
+  width: 11vw;
+  display: inline-block;
+  border-radius: 11px;
+  border: 3px solid var(--secondary-text-color-current);
+  margin-right: 3vw;
+}
+
+/*----- BODY TEXT -----*/
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  font-size: var(--normal-body-text-size);
+  margin: 0.5em auto;
+}
+
+label {
+  color: var(--tertiary-text-color-current);
+}
+
+p {
+  max-width: 80%;
+}
+
+/*----- SKILLS PAGE -----*/
+
+.skills-list {
+  display: inline-flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.skill-box {
+  display: inline-flex;
+  padding: 2.5vw;
+  border: calc(0.25vh + 0.25vw) solid var(--secondary-text-color-current);
+  border-radius: 15px;
+  margin: calc(0.5vh + 1vw);
+  color: var(--primary-text-color-current);
+  font-size: 10vw;
+  position: relative;
+  cursor: default;
+}
+
+.skill-box i {
+  transition: 250ms ease;
+}
+
+.skill-box:hover i {
+  color: var(--tertiary-text-color-current);
+  transition: 250ms ease;
+  filter: blur(4px) brightness(var(--hover-brightness-current)) saturate(var(--hover-brightness-current));;
+}
+
+.skill-box p {
+  text-align: center;
+  margin: auto;
+  opacity: 0;
+  position: absolute;
+  font-size: 3.5vw;
+  transition: 125ms ease;
+  color: var(--secondary-text-color-current);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.skill-box:hover p {
+  opacity: 1;
+  transition: 250ms ease;
+}
+
+/*----- CONTACT PAGE -----*/
+.contact-link {
+  text-decoration: none;
+  color: var(--primary-text-color-current);
+  display: block;
+  margin: 1em auto 1em 0;
+  transition: 125ms ease;
+  width: fit-content;
+}
+
+.contact-link:hover {
+  color: var(--tertiary-text-color-current);
+  transition: 125ms ease;
+}
