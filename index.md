@@ -53,7 +53,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 ## Spotify Song Genre Prediction
 #### Machine Learning and Data Mining I
 
-Source code can be found in this [Github repository](https://github.com/bobertoyin/ds4400-project).
+Source code can be found in this [GitHub repository](https://github.com/bobertoyin/ds4400-project).
 
 * *Collaborated with a two partners to **train**, **cross-validate**, and **test** three **classification algorithms** to classify the genres of various Spotify songs based on their auditory features.*
 * *Built using the **Scikit-learn**, **Pandas**, and **Seaborn** Python libraries in a **Jupyter Notebook** environment.*
@@ -61,7 +61,7 @@ Source code can be found in this [Github repository](https://github.com/bobertoy
 ## Portfolio Site
 #### Personal Project
 
-Source code can be found in this [Github repository](https://github.com/bobertoyin/bobertoyin.github.io).
+Source code can be found in this [GitHub repository](https://github.com/bobertoyin/bobertoyin.github.io).
 
 * *Built using the **Jekyll** static site generator.*
 * *Chock-full of **emojis** and whatnot.*
