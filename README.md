@@ -10,8 +10,8 @@ Feel free to fork this repository and use it as a base for your own personal sit
 
 - [ ] Organizing style sheet code
 - [ ] Navigation bar for multiple pages
-- [ ] Book list/blog page
-- [ ] Responsive design
+- [ ] Ability to blog
+- [x] Responsive design; it looks good enough on my phone now, so this is "complete" ¯\\_(ツ)_/¯
 
 # Missing Info 💾
 
