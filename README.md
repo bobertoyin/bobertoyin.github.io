@@ -15,6 +15,6 @@ Feel free to fork this repository and use it as a base for your own personal sit
 
 # Missing Info 💾
 
-- [ ] Skills section
-- [ ] Contact information
+- [x] Skills section
+- [x] Contact information
 - [ ] Current co-op information

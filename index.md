@@ -6,27 +6,27 @@ layout: default
 
 # Howdy, I'm Robert 👋🤠
 
-I'm a computer science major at Northeastern University 🐾 . After taking various courses and spending nine months as a co-op with the Release Engineering 🏗  team at [Wayfair](https://www.wayfair.com/), I've become somewhat of a jack of all trades from code writing 📝  to shipment 🚢 . Most of my development experience has been in Python, but I am always open to learning new tools as a developer.
+I'm a computer science major at Northeastern University. After taking various courses and spending nine months as a co-op with the Release Engineering team at [Wayfair](https://www.wayfair.com), I've become somewhat of a jack of all trades from code writing to shipment. Most of my development experience has been in Python, but I am always open to learning new tools as a developer.
 
-When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time cooking 🥘 , scuffing up my joints on a skateboard 🛹 , or binge-consuming mechanical keyboard content ⌨️ .
+When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time cooking, scuffing up my joints on a skateboard, or binge-consuming mechanical keyboard content.
 
 ### Current Status 📍
 
-* *Gearing up to join [Morse CORP](https://www.morsecorp.com/) as a Python SWE co-op for the Spring 2022 semester  🐉*
-* *Learning to become an emoji enthusiast, one emote at a time  🦾*
-* *Scheming up a silly personal project with Docker and/or Python  🐍 🐳*
-* *Completing the renovation of my [portfolio site](https://github.com/bobertoyin/bobertoyin.github.io/) for the ~~third~~ fourth time 📐*
+* *Gearing up to join [Morse CORP](https://www.morsecorp.com) as a Python SWE co-op for the Spring 2022 semester*  🐉
+* *Learning to become an emoji enthusiast, one emote at a time*  🦾
+* *Scheming up a silly personal project with Docker and/or Python*  🐍 🐳
+* *Completing the renovation of my [portfolio site](https://github.com/bobertoyin/bobertoyin.github.io) for the ~~third~~ fourth time*  📐
 
 ---
 
 # Experience 💼
 
-## Python Software Engineering Co-op at [Morse CORP](https://www.morsecorp.com/)
+## Python Software Engineering Co-op at [Morse CORP](https://www.morsecorp.com)
 #### January 2022 - Present
 
-***THIS SECTION IS CURRENTLY UNDER CONSTRUCTION 🚧 .***
+***THIS SECTION IS CURRENTLY UNDER CONSTRUCTION 🚧***
 
-## Software Engineering Co-op at [Wayfair](https://www.wayfair.com/)
+## Software Engineering Co-op at [Wayfair](https://www.wayfair.com)
 #### January 2021 - August 2021
 
 * *Followed **DevOps** practices to maintain and improve Wayfair's **CI/CD** platform for thousands of engineers who deploy their own decoupled services.*
@@ -34,7 +34,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 * *Developed **communication workflows** and a ChatOps bot to **automate** frequently occuring troubleshooting questions from engineers trying to deploy.*
 * *Created an internal **decoupled web service** using our CI/CD platform to uncover hidden toil in our team's troubleshooting requests.*
 
-## Teaching Assistant at [Northeastern University](https://www.northeastern.edu/)
+## Teaching Assistant at [Northeastern University](https://www.northeastern.edu)
 #### September 2020 - Present
 
 * *Organized office hours to review and **explain** key **discrete math** concepts for dozens of students a week.*
@@ -70,10 +70,20 @@ Source code can be found in this [GitHub repository](https://github.com/bobertoy
 
 # Skills 🧮
 
-***THIS SECTION IS CURRENTLY UNDER CONSTRUCTION 🚧 .***
+* 🐍  **Python**
+* 🐳  **Docker**
+* 🖥  **\*nix**
+* 💾  **Git**
+* 🚢  **CI/CD**
+* ☕️  **Java**
+* 🎨  **CSS**
+* 🏔  **Terraform**
 
 ---
 
-# Contact 📬
+# More Info 📇
 
-***THIS SECTION IS CURRENTLY UNDER CONSTRUCTION 🚧 .***
+* 📬  [yin.rob@northeastern.edu](mailto:yin.rob@northeastern.edu)
+* 📜  [Current Resume](assets/files/robert_yin_resume.pdf)
+* 👥  [LinkedIn](https://www.linkedin.com/in/boberto)
+* 💻  [GitHub](https://github.com/bobertoyin)
