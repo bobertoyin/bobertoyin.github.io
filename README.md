@@ -18,3 +18,5 @@ Feel free to fork this repository and use it as a base for your own personal sit
 - [x] Skills section
 - [x] Contact information
 - [ ] Current co-op information
+- [ ] Book list (maybe...)
+- [ ] Recipe section (pls...)
