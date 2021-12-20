@@ -8,13 +8,15 @@ Feel free to fork this repository and use it as a base for your own personal sit
 
 # Missing Features ⚙️
 
-- [ ] Organizing style sheet code
-- [ ] Navigation bar for multiple pages
-- [ ] Book list/blog page
-- [ ] Responsive design
+- [x] Organizing style sheet code
+- [x] Navigation bar for multiple pages
+- [ ] Ability to blog
+- [x] Responsive design; it looks good enough on my phone now, so this is "complete" ¯\\_(ツ)_/¯
 
 # Missing Info 💾
 
 - [x] Skills section
 - [x] Contact information
 - [ ] Current co-op information
+- [x] Book list (maybe...)
+- [ ] Recipe section (pls...)

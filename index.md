@@ -2,6 +2,8 @@
 layout: default
 ---
 
+---
+
 ![Robert Yin](assets/images/robert_yin.jpg){: .main-img} ![Cooking](assets/images/cooking.jpg){: .main-img} ![Skateboarding](assets/images/skateboarding.jpeg){: .main-img} ![Keyboard](assets/images/keyboard.jpeg){: .main-img}
 
 # Howdy, I'm Robert 👋🤠
@@ -24,7 +26,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 ## Python Software Engineering Co-op at [Morse CORP](https://www.morsecorp.com)
 #### January 2022 - Present
 
-***THIS SECTION IS CURRENTLY UNDER CONSTRUCTION 🚧***
+> ***THIS SECTION IS CURRENTLY UNDER CONSTRUCTION***  🚧
 
 ## Software Engineering Co-op at [Wayfair](https://www.wayfair.com)
 #### January 2021 - August 2021
