@@ -10,7 +10,7 @@ Feel free to fork this repository and use it as a base for your own personal sit
 
 - [x] Organizing style sheet code
 - [x] Navigation bar for multiple pages
-- [ ] Ability to blog
+- [x] Ability to ~blog~ add recipes
 - [x] Responsive design; it looks good enough on my phone now, so this is "complete" ¯\\_(ツ)_/¯
 
 # Missing Info 💾
@@ -18,5 +18,5 @@ Feel free to fork this repository and use it as a base for your own personal sit
 - [x] Skills section
 - [x] Contact information
 - [ ] Current co-op information
-- [x] Book list (maybe...)
-- [ ] Recipe section (pls...)
+- [ ] ~Book list~ Finishing the book list
+- [ ] ~Recipe section~ Finishing the recipe section

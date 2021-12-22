@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Reading List: 2020 - Present 📚
+# Reading List 📚
 
 > ***THIS SECTION IS INCOMPLETE***  🚧
 

@@ -3,7 +3,7 @@ layout: default
 title: Cooking
 ---
 
-<h1>Recipes</h1>
+# Recipes 🥘
 
 > ***THIS SECTION IS INCOMPLETE***  🚧
 
