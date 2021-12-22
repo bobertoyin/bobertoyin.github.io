@@ -8,6 +8,7 @@ Feel free to fork this repository and use it as a base for your own personal sit
 
 # Missing Features ⚙️
 
+- [ ] Making external site links pop-out into new tabs
 - [x] Organizing style sheet code
 - [x] Navigation bar for multiple pages
 - [x] Ability to ~blog~ add recipes
@@ -15,8 +16,8 @@ Feel free to fork this repository and use it as a base for your own personal sit
 
 # Missing Info 💾
 
-- [x] Skills section
-- [x] Contact information
 - [ ] Current co-op information
 - [ ] ~Book list~ Finishing the book list
 - [ ] ~Recipe section~ Finishing the recipe section
+- [x] Skills section
+- [x] Contact information
