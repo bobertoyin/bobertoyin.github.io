@@ -2,8 +2,6 @@
 layout: default
 ---
 
----
-
 ![Robert Yin](assets/images/robert_yin.jpg){: .main-img} ![Cooking](assets/images/cooking.jpg){: .main-img} ![Skateboarding](assets/images/skateboarding.jpeg){: .main-img} ![Keyboard](assets/images/keyboard.jpeg){: .main-img}
 
 # Howdy, I'm Robert 👋🤠

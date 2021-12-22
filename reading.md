@@ -2,8 +2,6 @@
 layout: default
 ---
 
----
-
 # Reading List: 2020 - Present 📚
 
 > ***THIS SECTION IS INCOMPLETE***  🚧
