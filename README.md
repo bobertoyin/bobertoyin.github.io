@@ -8,9 +8,9 @@ Feel free to fork this repository and use it as a base for your own personal sit
 
 # Missing Features ⚙️
 
-- [ ] Responsive design
 - [ ] Light/dark theme toggle
 - [ ] Making external site links pop out into new tabs
+- [x] ~Responsive design~ Responsiveness isn't the *best* you've ever seen, but at least it isn't tiny text on the phone anymore
 - [x] Organizing style sheet code
 - [x] Navigation bar for multiple pages
 - [x] Ability to ~blog~ add recipes
