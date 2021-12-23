@@ -15,22 +15,33 @@ body {
     font-family: p22-underground, sans-serif;
     font-style: normal;
     font-weight: 400;
-    padding: 3em 10em;
+    padding: 3em 10vw;
     color: $primary_color;
     background-color: $background_color;
     margin: 0;
+    font-size: 0.9vw;
 }
 
 h1, h2, h3, h4 {
     font-weight: 600;
 }
 
+h1 {
+    font-size: 2vw;
+}
+
 h2 {
     margin: 1.25em auto -0.5em auto;
+    font-size: 1.5vw;
+}
+
+h3 {
+    font-size: 1.5vw;
 }
 
 h4 {
     color: $secondary_color;
+    font-size: 1.1vw;
 }
 
 a {
@@ -90,10 +101,9 @@ MAIN PAGE EXTRAS
 */
 
 .main-img {
-    width: 200px;
+    width: 10vw;
     margin: 0.5em 2em 0.5em 0;
     border-radius: 100%;
-    border-width: 5px;
     border-style: solid;
     opacity: 80%;
 

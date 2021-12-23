@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Recipes 🥘
+# Cooking 🥘
 
 > ***THIS SECTION IS INCOMPLETE***  🚧
 
