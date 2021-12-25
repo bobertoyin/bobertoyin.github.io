@@ -12,5 +12,6 @@ layout: default
 >
 > 🌌  **Complete**
 
+* 🌠  **The Secret History of Food** - *Matt Siegel*
 * 🌠  **Breakfast of Champions** - *Kurt Vonnegut*
 * 🎇  **Salt: A World History** - *Mark Kurlansky*

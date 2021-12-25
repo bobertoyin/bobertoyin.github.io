@@ -77,7 +77,6 @@ Source code can be found in this [GitHub repository](https://github.com/bobertoy
 * 🚢  **CI/CD**
 * ☕️  **Java**
 * 🎨  **CSS**
-* 🏔  **Terraform**
 
 ---
 
