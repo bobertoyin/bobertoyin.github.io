@@ -6,8 +6,8 @@ $primary_color: #231B1E;
 $background_color: #F7F3F7;
 $secondary_color: #7F8D68;
 $tertiary_color: #E27750; 
-$link_hover_timing: 0.15s;
-$link_hover_anim_style: linear;
+$link_hover_timing: 0.1s;
+$link_hover_anim_style: ease-in;
 
 /*
 BASIC MARKDOWN STYLING
@@ -88,8 +88,8 @@ nav {
 }
 
 footer {
-    margin-top: 10em;
-    padding: 3em 1em;
+    margin-top: 3em;
+    padding: 1em 1em;
     border-radius: 5px;
     color: $secondary_color;
 }
@@ -104,7 +104,6 @@ MAIN PAGE EXTRAS
     border-radius: 100%;
     border-width: 5px;
     border-style: solid;
-    opacity: 80%;
 
     &:nth-of-type(even) {
         border-color: $tertiary_color;
@@ -114,7 +113,3 @@ MAIN PAGE EXTRAS
         border-color: $secondary_color;
     }
 }
-
-/*
-READING LIST
-*/
