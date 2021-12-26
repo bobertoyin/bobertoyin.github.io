@@ -42,7 +42,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 * *Created an internal **decoupled web service** using our CI/CD platform to uncover hidden toil in our team's troubleshooting requests.*
 
 ## Teaching Assistant at [Northeastern University](https://www.northeastern.edu)
-#### September 2020 - Present
+#### September 2020 - December 2021
 
 * *Organized office hours to review and **explain** key **discrete math** concepts for dozens of students a week.*
 * ***Graded** a score of problem sets and exams on a weekly basis.*
