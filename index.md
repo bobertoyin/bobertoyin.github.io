@@ -10,6 +10,13 @@ I'm a computer science major at Northeastern University. After taking various co
 
 When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time cooking, scuffing up my joints on a skateboard, or binge-consuming mechanical keyboard content.
 
+### Contact Info 📲
+
+* *Email me at [yin.rob@northeastern.edu](mailto:yin.rob@northeastern.edu)*  📬
+* *Glance at my [current resume](assets/files/robert_yin_resume.pdf)*  📜
+* *Connect with me on [LinkedIn](https://www.linkedin.com/in/boberto)*  👥
+* *Check out my code on [GitHub](https://github.com/bobertoyin)*  📁
+
 ### Current Status 📍
 
 * *Gearing up to join [Morse CORP](https://www.morsecorp.com) as a Python SWE co-op for the Spring 2022 semester*  🐉
@@ -63,26 +70,20 @@ Source code can be found in this [GitHub repository](https://github.com/bobertoy
 
 Source code can be found in this [GitHub repository](https://github.com/bobertoyin/bobertoyin.github.io).
 
-* *Built using the **Jekyll** static site generator.*
-* *Chock-full of **emojis** and whatnot.*
+* *Chock-full of **emojis** and whatnot, along with plenty of **Markdown** files.*
+* *Built using the **Jekyll** static site generator and designed with custom **SCSS** and **HTML**.*
 
 ---
 
 # Skills 🧮
 
-* 🐍  **Python**
-* 🐳  **Docker**
-* 🖥  **\*nix**
-* 💾  **Git**
-* 🚢  **CI/CD**
-* ☕️  **Java**
-* 🎨  **CSS**
-
----
-
-# More Info 📇
-
-* 📬  [yin.rob@northeastern.edu](mailto:yin.rob@northeastern.edu)
-* 📜  [Current Resume](assets/files/robert_yin_resume.pdf)
-* 👥  [LinkedIn](https://www.linkedin.com/in/boberto)
-* 💻  [GitHub](https://github.com/bobertoyin)
+* 🐍  **Python** - *Proficient*
+* 🖥  **\*nix** - *Proficient*
+* 💾  **Git** - *Proficient*
+* 🚢  **CI/CD** - *Competent*
+* ☕️  **Java** - *Competent*
+* 🎨  **CSS** - *Competent*
+* 🐳  **Docker** - *Competent*
+* ☁️  **Cloud Services** - *Novice*
+* 🏔  **Terraform** - *Novice*
+* 🎛  **Puppet** - *Novice*

@@ -3,11 +3,9 @@ VARIABLE DECLARATIONS
 */
 
 $primary_color: #231B1E;
-$background_color: #F7F3F7;
 $secondary_color: #7F8D68;
 $tertiary_color: #E27750; 
-$link_hover_timing: 0.1s;
-$link_hover_anim_style: ease-in;
+$background_color: #F7F3F7;
 
 /*
 BASIC MARKDOWN STYLING
@@ -38,11 +36,9 @@ h4 {
 a {
     text-decoration: none;
     color: $tertiary_color;
-    transition: $link_hover_anim_style $link_hover_timing;
 
     &:hover, &:focus {
-        filter: brightness(1.3);
-        transition: $link_hover_anim_style $link_hover_timing;
+        text-decoration: underline;
     }
 }
 
@@ -69,6 +65,10 @@ blockquote {
     background-color: $secondary_color;
     color: $background_color;
     border-radius: 5px;
+
+    a {
+        color: $background_color;
+    }
 }
 
 /*
