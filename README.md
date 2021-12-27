@@ -8,8 +8,8 @@ Feel free to fork this repository and use it as a base for your own personal sit
 
 # Missing Features ⚙️
 
-- [x] ~~Light/dark theme toggle~~ Tabling this for now: SCSS and toggle themes combined are hard :(
 - [ ] Making external site links pop out into new tabs
+- [ ] ~~Light/dark theme toggle~~ Tabling this for now: SCSS and toggle themes combined are hard :(
 - [x] ~Responsive design~ Not the *best* responsiveness you've ever seen, but at least it isn't tiny text on the phone anymore
 - [x] Organizing style sheet code
 - [x] Navigation bar for multiple pages
