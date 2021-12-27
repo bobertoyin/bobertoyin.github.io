@@ -2,10 +2,11 @@
 VARIABLE DECLARATIONS
 */
 
-$primary_color: #231B1E;
-$secondary_color: #7F8D68;
-$tertiary_color: #E27750; 
-$background_color: #F7F3F7;
+$primary_color: #080C0B;
+$tertiary_color: #6F824A;
+$background_color: #F3F7F6;
+$secondary_color: #5A400C;
+$quote_link_color: #E0ABA3;
 
 /*
 BASIC MARKDOWN STYLING
@@ -67,7 +68,7 @@ blockquote {
     border-radius: 5px;
 
     a {
-        color: $background_color;
+        color: $quote_link_color;
     }
 }
 
@@ -84,6 +85,7 @@ nav {
     a {
         font-size: larger;
         font-weight: 600;
+        color: $secondary_color;
     }
 }
 
