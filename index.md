@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Robert Yin
 ---
 
 # Howdy, I'm Robert 👋🤠

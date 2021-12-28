@@ -34,7 +34,7 @@ NAV BAR AND FOOTER
 nav { width: 100%; display: flex; justify-content: space-around; margin-bottom: 2.5em; font-family: museo-sans, sans-serif; }
 nav a { font-size: large; font-weight: 600; color: #CC513E; }
 
-footer { margin-top: 3em; padding: 1em 1em; border-radius: 5px; color: #647543; }
+footer { margin-top: 3em; padding: 1em 0; border-radius: 5px; color: #647543; }
 
 /*
 MAIN PAGE EXTRAS

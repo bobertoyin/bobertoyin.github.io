@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2021/12/22/test.html</loc>
+<loc>/2021/12/22/test.html</loc>
 <lastmod>2021-12-22T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2021/12/27/test.html</loc>
+<loc>/2021/12/27/test.html</loc>
 <lastmod>2021-12-27T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/cooking.html</loc>
+<loc>/cooking.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/random.html</loc>
+<loc>/random.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/reading.html</loc>
+<loc>/reading.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assets/files/robert_yin_resume.pdf</loc>
+<loc>/assets/files/robert_yin_resume.pdf</loc>
 <lastmod>2021-12-27T22:40:15-06:00</lastmod>
 </url>
 </urlset>
