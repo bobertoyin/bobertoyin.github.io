@@ -14,27 +14,27 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 ### Contact Info 📲
 
 * *Email me at [yin.rob@northeastern.edu](mailto:yin.rob@northeastern.edu)*  📬
-* *Glance at my [current resume](assets/files/robert_yin_resume.pdf)*  📜
-* *Connect with me on [LinkedIn](https://www.linkedin.com/in/boberto)*  👥
-* *Check out my code on [GitHub](https://github.com/bobertoyin)*  📁
+* *Glance at my [current resume](assets/files/robert_yin_resume.pdf){: target="_blank"}*  📜
+* *Connect with me on [LinkedIn](https://www.linkedin.com/in/boberto){: target="_blank"}*  👥
+* *Check out my code on [GitHub](https://github.com/bobertoyin){: target="_blank"}*  📁
 
 ### Current Status 📍
 
-* *Gearing up to join [Morse CORP](https://www.morsecorp.com) as a Python SWE co-op for the Spring 2022 semester*  🐉
+* *Gearing up to join [Morse CORP](https://www.morsecorp.com){: target="_blank"} as a Python SWE co-op for the Spring 2022 semester*  🐉
 * *Learning to become an emoji enthusiast, one emote at a time*  🦾
 * *Scheming up a silly personal project with Docker and/or Python*  🐍 🐳
-* *Completing the renovation of my [portfolio site](https://github.com/bobertoyin/bobertoyin.github.io) for the ~~third~~ fourth time*  📐
+* *Completing the renovation of my [portfolio site](https://github.com/bobertoyin/bobertoyin.github.io){: target="_blank"} for the ~~third~~ fourth time*  📐
 
 ---
 
 # Experience 💼
 
-## Python Software Engineering Co-op at [Morse CORP](https://www.morsecorp.com)
+## Python Software Engineering Co-op at [Morse CORP](https://www.morsecorp.com){: target="_blank"}
 #### January 2022 - Present
 
 > ***THIS SECTION IS CURRENTLY UNDER CONSTRUCTION***  🚧 
 
-## Software Engineering Co-op at [Wayfair](https://www.wayfair.com)
+## Software Engineering Co-op at [Wayfair](https://www.wayfair.com){: target="_blank"}
 #### January 2021 - August 2021
 
 * *Followed **DevOps** practices to maintain and improve Wayfair's **CI/CD** platform for thousands of engineers who deploy their own decoupled services.*
@@ -42,7 +42,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 * *Developed **communication workflows** and a ChatOps bot to **automate** frequently occuring troubleshooting questions from engineers trying to deploy.*
 * *Created an internal **decoupled web service** using our CI/CD platform to uncover hidden toil in our team's troubleshooting requests.*
 
-## Teaching Assistant at [Northeastern University](https://www.northeastern.edu)
+## Teaching Assistant at [Northeastern University](https://www.northeastern.edu){: target="_blank"}
 #### September 2020 - December 2021
 
 * ***Guided office hours** to review key concepts for the **Discrete Structures** course for dozens of students.*
@@ -61,7 +61,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 ## Spotify Song Genre Prediction
 #### Machine Learning and Data Mining I
 
-Source code can be found in this [GitHub repository](https://github.com/bobertoyin/ds4400-project).
+Source code can be found in this [GitHub repository](https://github.com/bobertoyin/ds4400-project){: target="_blank"}.
 
 * *Collaborated with two partners to **train**, **cross-validate**, and **test** three **classification algorithms** to classify genres of Spotify songs based on auditory features.*
 * *Built using the **Scikit-learn**, **Pandas**, and **Seaborn** Python libraries in a **Jupyter Notebook** environment.*
@@ -69,7 +69,7 @@ Source code can be found in this [GitHub repository](https://github.com/bobertoy
 ## Portfolio Site
 #### Personal Project
 
-Source code can be found in this [GitHub repository](https://github.com/bobertoyin/bobertoyin.github.io).
+Source code can be found in this [GitHub repository](https://github.com/bobertoyin/bobertoyin.github.io){: target="_blank"}.
 
 * *Chock-full of **emojis** and whatnot, along with plenty of **Markdown** files.*
 * *Built using the **Jekyll** static site generator and designed with custom **SCSS** and **HTML**.*
