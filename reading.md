@@ -6,12 +6,12 @@ layout: default
 
 > ***THIS SECTION IS INCOMPLETE***  🚧
 
-> 🌠  **Unread**
+> 📌  **Unread**
 >
-> 🎇  **In Progress**
+> 📖  **In Progress**
 >
-> 🌌  **Complete**
+> 📚  **Complete**
 
-* 🌠  **The Secret History of Food** - *Matt Siegel*
-* 🌠  **Breakfast of Champions** - *Kurt Vonnegut*
-* 🎇  **Salt: A World History** - *Mark Kurlansky*
+* 📌  **The Secret History of Food** - *Matt Siegel*
+* 📌  **Breakfast of Champions** - *Kurt Vonnegut*
+* 📖  **Salt: A World History** - *Mark Kurlansky*

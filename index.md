@@ -77,13 +77,13 @@ Source code can be found in this [GitHub repository](https://github.com/bobertoy
 
 # Skills 🧮
 
-* 🐍  **Python** - *Proficient*
-* 🖥  **\*nix** - *Proficient*
-* 💾  **Git** - *Proficient*
-* 🚢  **CI/CD** - *Competent*
-* ☕️  **Java** - *Competent*
-* 🎨  **CSS** - *Competent*
-* 🐳  **Docker** - *Competent*
-* ☁️  **Cloud Services** - *Novice*
-* 🏔  **Terraform** - *Novice*
-* 🎛  **Puppet** - *Novice*
+* {: .no-bullet} 🐍  **Python** - *Proficient*
+* {: .no-bullet} 🖥  **\*nix** - *Proficient*
+* {: .no-bullet} 💾  **Git** - *Proficient*
+* {: .no-bullet} 🚢  **CI/CD** - *Competent*
+* {: .no-bullet} ☕️  **Java** - *Competent*
+* {: .no-bullet} 🎨  **CSS** - *Competent*
+* {: .no-bullet} 🐳  **Docker** - *Competent*
+* {: .no-bullet} 📡  **Cloud Services** - *Novice*
+* {: .no-bullet} 🔌  **Terraform** - *Novice*
+* {: .no-bullet} 🎛  **Puppet** - *Novice*

@@ -43,13 +43,20 @@ a {
     }
 }
 
-ul {
-    list-style-type: none;
+ul, ol {
     padding-left: 1.5em;
 
     li {
         margin: 1em auto;
     }
+}
+
+ul {
+    list-style-type: "- ";
+}
+
+.no-bullet {
+    list-style-type: none;
 }
 
 hr {
@@ -70,6 +77,10 @@ blockquote {
     a {
         color: $quote_link_color;
     }
+
+    h4 {
+        color: $background_color;
+    }
 }
 
 /*
@@ -79,11 +90,11 @@ NAV BAR AND FOOTER
 nav {
     width: 100%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     margin-bottom: 2.5em;
 
     a {
-        font-size: larger;
+        font-size: large;
         font-weight: 600;
         color: $tertiary_color;
     }
@@ -116,3 +127,7 @@ MAIN PAGE EXTRAS
         border-color: $secondary_color;
     }
 }
+
+/*
+BLOG POST STUFFS
+*/

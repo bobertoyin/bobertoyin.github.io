@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Cooking 🥘
+# Random 🔮
 
 > ***THIS SECTION IS INCOMPLETE***  🚧
 
 <ul>
   {% for post in site.posts %}
-    {% if post.path contains "cooking" %}
+    {% if post.path contains "random" %}
       <li class="no-bullet">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p><i>{{ post.excerpt | strip_html }}</i></p>
