@@ -44,14 +44,14 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 ## Teaching Assistant at [Northeastern University](https://www.northeastern.edu)
 #### September 2020 - December 2021
 
-* *Organized office hours to review and **explain** key **discrete math** concepts for dozens of students a week.*
+* ***Guided office hours** to review key concepts for the **Discrete Structures** course for dozens of students.*
 * ***Graded** a score of problem sets and exams on a weekly basis.*
 
 ## WordPress Development Intern at [TestFirst Lawn Care]()
 #### January 2019 – August 2019
 
-* ***Developed back-end functionality** for a WordPress site that allowed dozens of users to comprehensively view soil tests results to better understand what products they needed for their lawn.*
-* *Wrote code in **PHP**, **HTML**, and **MySQL** while communicating with a front-end developer on what features needed to be implemented on the site.*
+* *Developed the site’s **back-end** to allow dozens of users to view and understand soil test results.*
+* *Wrote code in **PHP**, **HTML**, and **MySQL** while communicating with a front-end developer.*
 
 ---
 
@@ -62,7 +62,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 
 Source code can be found in this [GitHub repository](https://github.com/bobertoyin/ds4400-project).
 
-* *Collaborated with a two partners to **train**, **cross-validate**, and **test** three **classification algorithms** to classify the genres of various Spotify songs based on their auditory features.*
+* *Collaborated with two partners to **train**, **cross-validate**, and **test** three **classification algorithms** to classify genres of Spotify songs based on auditory features.*
 * *Built using the **Scikit-learn**, **Pandas**, and **Seaborn** Python libraries in a **Jupyter Notebook** environment.*
 
 ## Portfolio Site
@@ -72,6 +72,11 @@ Source code can be found in this [GitHub repository](https://github.com/bobertoy
 
 * *Chock-full of **emojis** and whatnot, along with plenty of **Markdown** files.*
 * *Built using the **Jekyll** static site generator and designed with custom **SCSS** and **HTML**.*
+
+## ExCELlence Animator
+#### Object-Oriented Design
+* *Collaborated with a partner to build a **simple cel animator** with the ability to **view, edit, and export**.*
+* *Developed using the **Java Swing** GUI library and **MVC design** principles.*
 
 ---
 
