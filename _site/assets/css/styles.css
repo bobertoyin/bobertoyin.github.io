@@ -4,9 +4,9 @@ VARIABLE DECLARATIONS
 /*
 BASIC MARKDOWN STYLING
 */
-body { font-family: museo-sans, sans-serif; font-style: normal; font-weight: 400; padding: 3em 4vw; color: #080C0B; background-color: #F3F7F6; margin: 0; }
+body { font-family: museo-sans-rounded, sans-serif; font-style: normal; font-weight: 400; padding: 3em 4vw; color: #080C0B; background-color: #F3F7F6; margin: 0; }
 
-h1, h2, h3, h4 { font-weight: 600; }
+h1, h2, h3, h4 { font-family: museo-sans, sans-serif; font-weight: 600; }
 
 h2 { margin: 1.25em auto -0.5em auto; }
 
@@ -31,7 +31,7 @@ blockquote h4 { color: #F3F7F6; }
 /*
 NAV BAR AND FOOTER
 */
-nav { width: 100%; display: flex; justify-content: space-around; margin-bottom: 2.5em; }
+nav { width: 100%; display: flex; justify-content: space-around; margin-bottom: 2.5em; font-family: museo-sans, sans-serif; }
 nav a { font-size: large; font-weight: 600; color: #CC513E; }
 
 footer { margin-top: 3em; padding: 1em 1em; border-radius: 5px; color: #647543; }
