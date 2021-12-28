@@ -4,7 +4,7 @@ layout: default
 
 # Howdy, I'm Robert 👋🤠
 
-![Robert Yin](assets/images/robert_yin.jpg){: .main-img} ![Cooking](assets/images/cooking.jpg){: .main-img} ![Skateboarding](assets/images/skateboarding.jpeg){: .main-img} ![Keyboard](assets/images/keyboard.jpeg){: .main-img}
+![Robert Yin](assets/images/robert_yin.jpg){: .main-img}![Cooking](assets/images/cooking.jpg){: .main-img}![Skateboarding](assets/images/skateboarding.jpeg){: .main-img}![Keyboard](assets/images/keyboard.jpeg){: .main-img}
 
 I'm a computer science major at Northeastern University. After taking various courses and spending nine months as a co-op with the Release Engineering team at [Wayfair](https://www.wayfair.com), I've become somewhat of a jack of all trades from code writing to shipment. Most of my development experience has been in Python, but I am always open to learning new tools as a developer.
 

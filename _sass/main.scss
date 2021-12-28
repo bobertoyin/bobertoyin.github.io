@@ -2,10 +2,10 @@
 VARIABLE DECLARATIONS
 */
 
-$primary_color: #080C0B;
-$tertiary_color: #6F824A;
 $background_color: #F3F7F6;
-$secondary_color: #5A400C;
+$primary_color: #080C0B;
+$secondary_color: #647543;
+$tertiary_color: #CC513E;
 $quote_link_color: #E0ABA3;
 
 /*
@@ -16,7 +16,7 @@ body {
     font-family: museo-sans, sans-serif;
     font-style: normal;
     font-weight: 400;
-    padding: 3em 5vw;
+    padding: 3em 4vw;
     color: $primary_color;
     background-color: $background_color;
     margin: 0;
@@ -102,10 +102,11 @@ MAIN PAGE EXTRAS
 
 .main-img {
     width: 10em;
-    margin: 0.5em 2em 0.5em 0;
+    margin: 0.5em 2vw 0.5em 0;
     border-radius: 100%;
     border-width: 5px;
     border-style: solid;
+    filter: brightness(1.1);
 
     &:nth-of-type(even) {
         border-color: $tertiary_color;
