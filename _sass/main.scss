@@ -68,8 +68,8 @@ hr {
 }
 
 blockquote {
-    margin: 1em;
-    width: calc(100% - 4em);
+    margin: auto;
+    width: calc(100% - 3em);
     padding: 0.25em 1em;
     background-color: $secondary_color;
     color: $background_color;
@@ -114,10 +114,11 @@ MAIN PAGE EXTRAS
 */
 
 .main-img {
-    width: 10em;
+    min-width: 7.5em;
+    width: 12vw;
     margin: 0.5em 2vw 0.5em 0;
     border-radius: 100%;
-    border-width: 5px;
+    border-width: 0.25em;
     border-style: solid;
     filter: brightness(1.1);
 
