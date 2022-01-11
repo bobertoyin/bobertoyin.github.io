@@ -44,5 +44,6 @@ MAIN PAGE EXTRAS
 .main-img:nth-of-type(odd) { border-color: #647543; }
 
 /*
-BLOG POST STUFFS
+404 PAGE
 */
+.chorbus { min-width: 7.5em; width: 12vw; }
