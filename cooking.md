@@ -5,8 +5,6 @@ title: Cooking
 
 # Cooking 🥘
 
-> ***THIS SECTION IS INCOMPLETE***  🚧
-
 <ul>
   {% for post in site.posts %}
     {% if post.path contains "cooking" %}
