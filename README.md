@@ -18,8 +18,8 @@ Feel free to fork this repository and use it as a base for your own personal sit
 # Missing Info 💾
 
 - [ ] Current co-op information
-- [ ] Finishing the random section
-- [ ] ~~Recipe section~~ Finishing the recipe section
+- [x] Finishing the random section
+- [x] ~~Recipe section~~ Finishing the recipe section
 - [x] Book list
 - [x] Skills section
 - [x] Contact information

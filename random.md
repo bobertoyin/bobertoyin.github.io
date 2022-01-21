@@ -5,8 +5,6 @@ title: Random
 
 # Random 🔮
 
-> ***THIS SECTION IS INCOMPLETE***  🚧
-
 <ul>
   {% for post in site.posts %}
     {% if post.path contains "random" %}
