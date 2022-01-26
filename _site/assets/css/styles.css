@@ -28,6 +28,10 @@ blockquote { margin: auto; width: calc(100% - 3em); padding: 0.25em 1em; backgro
 blockquote a { color: #E0ABA3; }
 blockquote h4 { color: #F3F7F6; }
 
+table { border-collapse: collapse; border-spacing: 0; max-width: 100%; margin-left: 0.25em; }
+
+th, td { padding: 0.5em; border: 2px solid #080C0B; }
+
 /*
 NAV BAR AND FOOTER
 */
