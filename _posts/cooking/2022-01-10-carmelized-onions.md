@@ -1,11 +1,12 @@
 ---
 layout: post
+parent: cooking
 title: Hacked Carmelized Onions
 ---
 
-> ***These "hacked" carmelized onions use a cheat or two to reduce cook time and add some flavor complexity.***
->
-> ***Makes one cup of onions.***
+These "hacked" carmelized onions use a cheat or two to reduce cook time and add some flavor complexity.
+
+***Makes one cup of onions.***
 
 # Ingredients 📦
 * Two Sweet Onions

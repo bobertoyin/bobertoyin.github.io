@@ -1,9 +1,10 @@
 ---
 layout: post
+parent: random
 title: Mechanical Keyboards
 ---
 
-> ***Documentation for my current keyboard builds.***
+Here lives the documentation for my current keyboard builds!
 
 # Home Keyboard 🏡
 

@@ -3,7 +3,7 @@ layout: default
 title: Robert Yin
 ---
 
-# Howdy, I'm Robert 👋🤠
+# About Me 🤠
 
 ![Robert Yin](assets/images/robert_yin.jpg){: .main-img}![Cooking](assets/images/cooking.jpg){: .main-img}![Skateboarding](assets/images/skateboarding.jpeg){: .main-img}![Keyboard](assets/images/keyboard.jpeg){: .main-img}
 
@@ -22,7 +22,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 
 * *Gearing up to join [Morse CORP](https://www.morsecorp.com){: target="_blank"} as a Python SWE co-op for the Spring 2022 semester*  🐉
 * *Learning to become an emoji enthusiast, one emote at a time*  🦾
-* *Scheming up a silly personal project with Docker and/or Python*  🐍 🐳
+* *Scheming up a silly personal project with Docker and/or Python*  🐍🐳
 * *Completing the renovation of my [portfolio site](https://github.com/bobertoyin/bobertoyin.github.io){: target="_blank"} for the ~~third~~ fourth time*  📐
 
 ---
@@ -32,7 +32,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 ## Python Software Engineering Co-op at [Morse CORP](https://www.morsecorp.com){: target="_blank"}
 #### January 2022 - Present
 
-> ***THIS SECTION IS CURRENTLY UNDER CONSTRUCTION***  🚧 
+> ***THIS SECTION IS CURRENTLY UNDER CONSTRUCTION***  🚧
 
 ## Software Engineering Co-op at [Wayfair](https://www.wayfair.com){: target="_blank"}
 #### January 2021 - August 2021
@@ -83,13 +83,19 @@ Source code can be found in this [GitHub repository](https://github.com/bobertoy
 
 # Skills 🧮
 
-* {: .no-bullet} 🐍  **Python** - *Proficient*
-* {: .no-bullet} 🖥  **\*nix** - *Proficient*
-* {: .no-bullet} 💾  **Git** - *Proficient*
-* {: .no-bullet} 🚢  **CI/CD** - *Competent*
-* {: .no-bullet} ☕️  **Java** - *Competent*
-* {: .no-bullet} 🎨  **CSS** - *Competent*
-* {: .no-bullet} 🐳  **Docker** - *Competent*
-* {: .no-bullet} 📡  **Cloud Services** - *Novice*
-* {: .no-bullet} 🔌  **Terraform** - *Novice*
-* {: .no-bullet} 🎛  **Puppet** - *Novice*
+* 🐍 **Python**<sup>**&#x271D;**</sup>
+* 🖥 **\*nix**<sup>**&#x271D;**</sup>
+* 💾 **Git**<sup>**&#x271D;**</sup>
+* 🚢 **CI/CD**<sup>**&#x271D;&#x271D;**</sup>
+* ☕️ **Java**<sup>**&#x271D;&#x271D;**</sup>
+* 🎨 **CSS**<sup>**&#x271D;&#x271D;**</sup>
+* 🐳 **Docker**<sup>**&#x271D;&#x271D;&#x271D;**</sup>
+* 📡 **Cloud Services**<sup>**&#x271D;&#x271D;&#x271D;**</sup>
+* 🔌 **Terraform**<sup>**&#x271D;&#x271D;&#x271D;**</sup>
+* 🎛 **Puppet**<sup>**&#x271D;&#x271D;&#x271D;**</sup>
+
+> **&#x271D;** - *Proficient*
+>
+> **&#x271D;&#x271D;** - *Competent*
+>
+> **&#x271D;&#x271D;&#x271D;** - *Novice*
