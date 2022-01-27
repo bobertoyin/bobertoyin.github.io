@@ -83,19 +83,19 @@ Source code can be found in this [GitHub repository](https://github.com/bobertoy
 
 # Skills 🧮
 
-* 🐍 **Python**<sup>**&#x271D;**</sup>
-* 🖥 **\*nix**<sup>**&#x271D;**</sup>
-* 💾 **Git**<sup>**&#x271D;**</sup>
-* 🚢 **CI/CD**<sup>**&#x271D;&#x271D;**</sup>
-* ☕️ **Java**<sup>**&#x271D;&#x271D;**</sup>
-* 🎨 **CSS**<sup>**&#x271D;&#x271D;**</sup>
-* 🐳 **Docker**<sup>**&#x271D;&#x271D;&#x271D;**</sup>
-* 📡 **Cloud Services**<sup>**&#x271D;&#x271D;&#x271D;**</sup>
-* 🔌 **Terraform**<sup>**&#x271D;&#x271D;&#x271D;**</sup>
-* 🎛 **Puppet**<sup>**&#x271D;&#x271D;&#x271D;**</sup>
+* 🐍 **Python**<sup>&#8224;</sup>
+* 🖥 **Linux**<sup>&#8224;</sup>
+* 💾 **Git**<sup>&#8224;</sup>
+* 🚢 **CI/CD**<sup>&#8224;&#8224;</sup>
+* ☕️ **Java**<sup>&#8224;&#8224;</sup>
+* 🎨 **CSS**<sup>&#8224;&#8224;</sup>
+* 🐳 **Docker**<sup>&#8224;&#8224;&#8224;</sup>
+* 📡 **Cloud Services**<sup>&#8224;&#8224;&#8224;</sup>
+* 🔌 **Terraform**<sup>&#8224;&#8224;&#8224;</sup>
+* 🎛 **Puppet**<sup>&#8224;&#8224;&#8224;</sup>
 
-> **&#x271D;** - *Proficient*
+> &#8224; - *Proficient*
 >
-> **&#x271D;&#x271D;** - *Competent*
+> &#8224;&#8224; - *Competent*
 >
-> **&#x271D;&#x271D;&#x271D;** - *Novice*
+> &#8224;&#8224;&#8224; - *Novice*
