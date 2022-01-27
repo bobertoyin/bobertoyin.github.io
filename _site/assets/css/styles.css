@@ -4,7 +4,8 @@ VARIABLE DECLARATIONS
 /*
 BASIC MARKDOWN STYLING
 */
-body { font-family: rustica, sans-serif; font-style: normal; padding: 6em 12vw; color: #ebdbb2; background-color: #282828; margin: 0; }
+body { font-family: rustica, sans-serif; font-style: normal; padding: 0 3vw; color: #ebdbb2; background-color: #282828; margin: 0; }
+@media (min-width: 768px) { body { padding: 6vh 12vw; } }
 
 #content, footer { padding: 2em 2vw; }
 
@@ -36,7 +37,7 @@ th, td { padding: 0.5em; border: 2px solid #ebdbb2; }
 /*
 NAV BAR AND FOOTER
 */
-nav { margin-top: -1em; margin-bottom: 2em; display: block; }
+nav { margin-top: -2em; margin-bottom: 3em; display: block; }
 nav a { border-left: 2px solid #ebdbb2; padding: 0 0.75em; font-weight: bold; }
 nav a:last-of-type { border-right: 2px solid #ebdbb2; }
 
