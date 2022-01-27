@@ -6,7 +6,7 @@ title: Mechanical Keyboards
 
 Here lives the documentation for my current keyboard builds!
 
-# Home Keyboard 🏡
+### Home Keyboard 🏡
 
 | Component | Site of Purchase | Purchase Price |
 | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ Here lives the documentation for my current keyboard builds!
 
 **Total Cost: $288.75**
 
-# Office Keyboard 👔 
+### Office Keyboard 👔 
 
 | Component | Site of Purchase | Purchase Price |
 | :--- | :--- | :--- |

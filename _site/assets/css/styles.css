@@ -11,9 +11,9 @@ body { font-family: rustica, sans-serif; font-style: normal; padding: 0 3vw; col
 
 h1, h2, h3, h4 { font-weight: bold; }
 
-h2 { margin: 1.25em auto -0.5em auto; }
+h2 { margin: 1.25em auto 0 auto; }
 
-h4 { color: #b8bb26; }
+h4 { margin-top: 0.125em; color: #b8bb26; }
 
 a { text-decoration: none; color: #fb4934; }
 a:hover, a:focus { text-decoration: underline; }
@@ -37,7 +37,7 @@ th, td { padding: 0.5em; border: 2px solid #ebdbb2; }
 /*
 NAV BAR AND FOOTER
 */
-nav { margin-top: -2em; margin-bottom: 3em; display: block; }
+nav { margin-bottom: 3em; display: block; }
 nav a { border-left: 2px solid #ebdbb2; padding: 0 0.75em; font-weight: bold; }
 nav a:last-of-type { border-right: 2px solid #ebdbb2; }
 

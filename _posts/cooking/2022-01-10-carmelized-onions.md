@@ -8,7 +8,7 @@ These "hacked" carmelized onions use a cheat or two to reduce cook time and add 
 
 ***Makes one cup of onions.***
 
-# Ingredients 📦
+### Ingredients 📦
 * Two Sweet Onions
 * Two Tablespoons of Butter
 * Two Tablespoons of Brown Sugar
@@ -16,7 +16,7 @@ These "hacked" carmelized onions use a cheat or two to reduce cook time and add 
 * A Shot of Bourbon Whiskey
 * A Tablespoon of Balsamic Vinegar
 
-# Instructions 🥣
+### Instructions 🥣
 1. Cut onions into thin slices.
 2. Heat butter in a pan on medium heat until fully melted and slightly bubbling.
 3. Add onions to the pan and stir in the pinch of salt.

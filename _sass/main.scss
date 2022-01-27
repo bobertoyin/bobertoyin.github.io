@@ -43,10 +43,11 @@ h1, h2, h3, h4 {
 }
 
 h2 {
-    margin: 1.25em auto -0.5em auto;
+    margin: 1.25em auto 0 auto;
 }
 
 h4 {
+    margin-top: 0.125em;
     color: $secondary_color;
 }
 
@@ -110,7 +111,6 @@ NAV BAR AND FOOTER
 */
 
 nav {
-    margin-top: -2em;
     margin-bottom: 3em;
     display: block;
 
