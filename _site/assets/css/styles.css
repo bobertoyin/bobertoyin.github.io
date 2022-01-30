@@ -7,9 +7,11 @@ BASIC MARKDOWN STYLING
 body { font-family: rustica, sans-serif; font-style: normal; padding: 0 3vw; color: #ebdbb2; background-color: #282828; margin: 0; }
 @media (min-width: 768px) { body { padding: 6vh 12vw; } }
 
-#content, footer { padding: 2em 2vw; }
+#content, footer { padding: 1.5em 2vw; }
 
 h1, h2, h3, h4 { font-weight: bold; }
+
+#robert-yin { font-size: 3em; margin: 0; }
 
 h2 { margin: 1.25em auto 0 auto; }
 
@@ -37,7 +39,7 @@ th, td { padding: 0.5em; border: 2px solid #ebdbb2; }
 /*
 NAV BAR AND FOOTER
 */
-nav { margin-bottom: 3em; display: block; }
+nav { margin-bottom: 5em; display: block; }
 nav a { border-left: 2px solid #ebdbb2; padding: 0 0.75em; font-weight: bold; }
 nav a:last-of-type { border-right: 2px solid #ebdbb2; }
 

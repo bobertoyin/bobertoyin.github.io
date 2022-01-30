@@ -11,19 +11,19 @@ I'm a computer science major at Northeastern University. After taking various co
 
 When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time cooking, scuffing up my joints on a skateboard, or binge-consuming mechanical keyboard content.
 
-### Contact Info 📲
+### Where to Reach Out 📲
 
-* *Email me at [yin.rob@northeastern.edu](mailto:yin.rob@northeastern.edu)*  📬
-* *Glance at my [current resume](assets/files/robert_yin_resume.pdf){: target="_blank"}*  📜
-* *Connect with me on [LinkedIn](https://www.linkedin.com/in/boberto){: target="_blank"}*  👥
-* *Check out my code on [GitHub](https://github.com/bobertoyin){: target="_blank"}*  📁
+* *Email me at [yin.rob@northeastern.edu](mailto:yin.rob@northeastern.edu)* 📬
+* *Glance at my [current resume](assets/files/robert_yin_resume.pdf){: target="_blank"}* 📜
+* *Connect with me on [LinkedIn](https://www.linkedin.com/in/boberto){: target="_blank"}* 👥
+* *Check out my code on [GitHub](https://github.com/bobertoyin){: target="_blank"}* 📁
 
 ### Current Status 📍
 
-* *Gearing up to join [Morse CORP](https://www.morsecorp.com){: target="_blank"} as a Python SWE co-op for the Spring 2022 semester*  🐉
-* *Learning to become an emoji enthusiast, one emote at a time*  🦾
-* *Scheming up a silly personal project with Docker and/or Python*  🐍🐳
-* *Completing the renovation of my [portfolio site](https://github.com/bobertoyin/bobertoyin.github.io){: target="_blank"} for the ~~third~~ fourth time*  📐
+* *Scheming up a silly personal project with Docker and/or Python* 🐍🐳
+* *Completing the renovation of my [portfolio site](https://github.com/bobertoyin/bobertoyin.github.io){: target="_blank"} for the ~~third~~ ~~fourth~~ fifth time* 📐
+* *Learning to become an emoji enthusiast, one emote at a time* 🦾
+* *Nursing a budding [Factorio](https://www.factorio.com/) addiction* ⚙️
 
 ---
 
@@ -83,19 +83,19 @@ Source code can be found in this [GitHub repository](https://github.com/bobertoy
 
 # Skills 🧮
 
-* 🐍 **Python**<sup>&#8224;</sup>
-* 🖥 **Linux**<sup>&#8224;</sup>
-* 💾 **Git**<sup>&#8224;</sup>
-* 🚢 **CI/CD**<sup>&#8224;&#8224;</sup>
-* ☕️ **Java**<sup>&#8224;&#8224;</sup>
-* 🎨 **CSS**<sup>&#8224;&#8224;</sup>
-* 🐳 **Docker**<sup>&#8224;&#8224;&#8224;</sup>
-* 📡 **Cloud Services**<sup>&#8224;&#8224;&#8224;</sup>
-* 🔌 **Terraform**<sup>&#8224;&#8224;&#8224;</sup>
-* 🎛 **Puppet**<sup>&#8224;&#8224;&#8224;</sup>
+* 🐍 **Python**<sup>🙌</sup>
+* 🖥 **Linux**<sup>🙌</sup>
+* 💾 **Git**<sup>🙌</sup>
+* 🚢 **CI/CD**<sup>👍</sup>
+* ☕️ **Java**<sup>👍</sup>
+* 🎨 **CSS**<sup>👍</sup>
+* 🐳 **Docker**<sup>✍️</sup>
+* 📡 **Cloud Services**<sup>✍️</sup>
+* 🔌 **Terraform**<sup>✍️</sup>
+* 🎛 **Puppet**<sup>✍️</sup>
 
-> &#8224; - *Proficient*
+> 🙌 - *Proficient*
 >
-> &#8224;&#8224; - *Competent*
+> 👍 - *Competent*
 >
-> &#8224;&#8224;&#8224; - *Novice*
+> ✍️ - *Novice*

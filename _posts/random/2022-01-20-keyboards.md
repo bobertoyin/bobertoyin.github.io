@@ -20,7 +20,7 @@ Here lives the documentation for my current keyboard builds!
 
 **Total Cost: $288.75**
 
-### Office Keyboard 👔 
+### Office Keyboard 👨‍💻
 
 | Component | Site of Purchase | Purchase Price |
 | :--- | :--- | :--- |

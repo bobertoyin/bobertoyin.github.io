@@ -35,11 +35,16 @@ body {
 }
 
 #content, footer {
-    padding: 2em 2vw;
+    padding: 1.5em 2vw;
 }
 
 h1, h2, h3, h4 {
     font-weight: bold;
+}
+
+#robert-yin {
+    font-size: 3em; 
+    margin: 0;
 }
 
 h2 {
@@ -111,7 +116,7 @@ NAV BAR AND FOOTER
 */
 
 nav {
-    margin-bottom: 3em;
+    margin-bottom: 5em;
     display: block;
 
     a {
